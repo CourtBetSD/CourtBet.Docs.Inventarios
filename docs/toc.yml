@@ -2,3 +2,14 @@
   href: introduction.md
 - name: Getting Started
   href: getting-started.md
+  modulos:
+    - name: Activos
+      href: modulos/activos.md
+    - name: Almacen
+      href: modulos/almacen.md
+    - name: Catalogos
+      href: modulos/catalogos.md
+    - name: Interfaz
+      href: modulos/interfaz.md
+    - name: Modulos
+      href: modulos/modulos.md
