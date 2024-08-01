@@ -1,15 +1,13 @@
-- name: Introduction
-  href: introduction.md
-- name: Getting Started
-  href: getting-started.md
-  modulos:
-    - name: Activos
-      href: modulos/activos.md
-    - name: Almacen
-      href: modulos/almacen.md
-    - name: Catalogos
-      href: modulos/catalogos.md
-    - name: Interfaz
-      href: modulos/interfaz.md
-    - name: Modulos
-      href: modulos/modulos.md
+---
+- items:
+    - href: modulos/activos.md
+      name: Activos
+    - href: modulos/almacen.md
+      name: Almacen
+    - href: modulos/catalogos.md
+      name: Catalogos
+    - href: modulos/interfaz.md
+      name: Interfaz
+    - href: modulos/modulos.md
+      name: Modulos
+  name: Modulos

@@ -2,24 +2,26 @@
 
 En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo, estos, con sus propias funciones y capcacidades únicas, pero ciertos elementos de navegación son constantes para cambiar de vista de forma sencilla, estos, diferenciados en diferentes campos:
 
-  ### Usuario 
+### Usuario
+
   Se muestran la diferentes capacidades rápidas con las cuales el usuario puede interactuar con el servicio.
   
-  ![alt text](/docs/img/int1.png)
+  ![alt text](~/images/int1.png)
 
   En esta primera opción, se podrá acceder a diferentes configuracines que pueden ser aplicadas a lo largo de la aplicación en la que se encuentre el usuario, definiendo reglas ya establecidas para su uso.
 
   Además, se puede encontrar la versión actual del sistema así como el registro de todas las versiones anteriores, que han ido agregando mas interacción, funciones y mejoras al sistema, muy útiles para observar el cambio constante del sistema.
 
-![alt text](/docs/img/int4.png)
-![alt text](/docs/img/int5.png)
+![alt text](~/images/int4.png)
+![alt text](~/images/int5.png)
 
-  ### Barra de navegación
+### Barra de navegación
+
   Para mejorar la navegación entre los diferentes módulos del sistema, este cuenta con una barra de navegación con todas las funcionalidades registradas y funcionales con las que se puede interactuar, estas son diferenciadas por 3 secciones.
 
 - **Inicio**: Puedes volver desde donde estés hacia la vista de inicio, en donde puedes elegir el almacén en el cual empezar a trabajar tus activos.
   
-  ![alt text](/docs/img/int6.png)
+  ![alt text](~/images/int6.png)
 
 - **Módulos**: Los módulos constan de toda la funcionalidad con la que cuenta el sistema, cada una de ellas sirviendo para un fin en concreto, estas son las siguientes:
   - Facturación.
@@ -48,7 +50,7 @@ En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo
     - Rentas.
     - Políticas de Renta
   
-  ![alt text](/docs/img/int2.png)
+  ![alt text](~/images/int2.png)
 
      [Conoce más sobre los Módulos](modulos.md)
 
@@ -59,11 +61,10 @@ En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo
   - Tipos de Gastos.
   - Proveedores.
   
-  
   - Funciones.
   
     - Actualizar items.
   
-    ![alt text](/docs/img/int3.png)
+    ![alt text](~/images/int3.png)
   
    [Conoce más sobre los Catálogos](catalogos.md)
