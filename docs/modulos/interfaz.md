@@ -1,19 +1,19 @@
 # Interfaz de Usuario
 
-En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo, estos, con sus propias funciones y capcacidades únicas, pero ciertos elementos de navegación son constantes para cambiar de vista de forma sencilla, estos, diferenciados en diferentes campos:
+En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo, estos, con sus propias funciones y capacidades únicas, pero ciertos elementos de navegación son constantes para cambiar de vista de forma sencilla, estos, diferenciados en diferentes campos:
 
 ### Usuario
 
-  Se muestran la diferentes capacidades rápidas con las cuales el usuario puede interactuar con el servicio.
+  Se muestran las diferentes capacidades rápidas con las cuales el usuario puede interactuar con el servicio.
   
-  ![alt text](~/images/int1.png)
+  ![alt text](/images/int1.png)
 
-  En esta primera opción, se podrá acceder a diferentes configuracines que pueden ser aplicadas a lo largo de la aplicación en la que se encuentre el usuario, definiendo reglas ya establecidas para su uso.
+  En esta primera opción, se podrá acceder a diferentes configuraciones que pueden ser aplicadas a lo largo de la aplicación en la que se encuentre el usuario, definiendo reglas ya establecidas para su uso.
 
-  Además, se puede encontrar la versión actual del sistema así como el registro de todas las versiones anteriores, que han ido agregando mas interacción, funciones y mejoras al sistema, muy útiles para observar el cambio constante del sistema.
+  Además, se puede encontrar la versión actual del sistema, así como el registro de todas las versiones anteriores, que han ido agregando más interacción, funciones y mejoras al sistema, muy útiles para observar el cambio constante del sistema.
 
-![alt text](~/images/int4.png)
-![alt text](~/images/int5.png)
+![alt text](/images/int4.png)
+![alt text](/images/int5.png)
 
 ### Barra de navegación
 
@@ -21,7 +21,7 @@ En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo
 
 - **Inicio**: Puedes volver desde donde estés hacia la vista de inicio, en donde puedes elegir el almacén en el cual empezar a trabajar tus activos.
   
-  ![alt text](~/images/int6.png)
+  ![alt text](/images/int6_5.png)
 
 - **Módulos**: Los módulos constan de toda la funcionalidad con la que cuenta el sistema, cada una de ellas sirviendo para un fin en concreto, estas son las siguientes:
   - Facturación.
@@ -36,7 +36,7 @@ En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo
   
   - Gastos y Compras.
   
-    - Gastos Genealres.
+    - Gastos Generales.
     - Compras.
     - Caja Chica.
   
@@ -50,7 +50,7 @@ En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo
     - Rentas.
     - Políticas de Renta
   
-  ![alt text](~/images/int2.png)
+  ![alt text](/images/int2_5.png)
 
      [Conoce más sobre los Módulos](modulos.md)
 
@@ -63,8 +63,9 @@ En tu interfaz, encontrarás diferentes vistas que se utilizan para cada módulo
   
   - Funciones.
   
-    - Actualizar items.
+    - Actualizar ítems.
   
-    ![alt text](~/images/int3.png)
+    ![alt text](/images/int3.png)
   
    [Conoce más sobre los Catálogos](catalogos.md)
+
