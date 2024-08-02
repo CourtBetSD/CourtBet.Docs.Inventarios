@@ -8,4 +8,4 @@ Te encuentras en la documentación de usuario del **Sistema de Inventarios** de 
 
 #### Version
 
-> 1.0.0
+> 1.0.1
