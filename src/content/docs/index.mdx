@@ -1,0 +1,32 @@
+---
+title: Bienvenido a la Documentación
+description: Documentacion del sistema de inventarios.
+template: splash
+hero:
+  tagline: Documentación del sistema de Inventarios!.
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Acceder a la Documentación
+      link: /inventarios/interfaz/
+      icon: right-arrow
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Next steps
+
+<CardGrid stagger>
+	<Card title="Pide a la administración" icon="setting">
+		La administracion del `Sistema de Inventarios` configuraran tu `Instancia`.
+	</Card>
+	<Card title="Navega al Sistema" icon="seti:firefox">
+		Navega al sistema y accede con las `Credenciales` proporcionadas!.
+	</Card>
+	<Card title="Agrega y controla tus activos" icon="add-document">
+		Una vez creada tu `Instancia`, ya te sera posible agregar y controlar tus activos.
+	</Card>	
+	<Card title="Tienes dudas!" icon="open-book">
+		Revisa la `Documentación`, resolvera todas tus dudas!.
+	</Card>
+</CardGrid>
