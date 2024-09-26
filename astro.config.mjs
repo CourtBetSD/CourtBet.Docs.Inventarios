@@ -3,7 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://courtbetsd.github.io/CourtBet.Docs.Inventarios/',
+	site: 'https://courtbetsd.github.io/',
+	base: 'CourtBet.Docs.Inventarios/',
 	integrations: [
 		starlight({
 			title: 'Sistema de Inventarios',
