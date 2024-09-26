@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'Sistema de Inventarios',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/CourtBetSD/CourtBet.Docs.Inventarios.git',
 			},
 			sidebar: [
 				{ slug: 'inventarios/interfaz' },
@@ -16,6 +16,7 @@ export default defineConfig({
 				{ slug: 'inventarios/modulos' },
 				{ slug: 'inventarios/catalogos' }
 			],
+			credits: true
 		}),
 	],
 });
