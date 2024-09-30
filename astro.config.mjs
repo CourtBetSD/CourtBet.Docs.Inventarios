@@ -22,6 +22,11 @@ export default defineConfig({
 			editLink: {
 				baseUrl: 'https://github.com/CourtBetSD/CourtBet.Docs.Inventarios/edit/main/',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+				'@fontsource/geist-sans/400.css',
+				'@fontsource/geist-sans/600.css',
+			],
 		}),
 	],
 });
