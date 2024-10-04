@@ -107,3 +107,51 @@ Además de esto, para poder conocer los gastos que realizaron al activo, tambié
 Puedes conocer los gastos relacionados con tus activos, en los cuales se encuentra todo el histórico con las facultades de edición y eliminación, además de poder generar el Reporte de Gastos con la información conglomerada de cada gasto realizado, este reporte viene en formato de archivo Excel.
 
 ![alt text](../../../assets/act14_5.webp)
+
+## Inventarios
+
+En esta seccion tienes la oportunidad de realizar inventarios de tus activos en diferenets tiempos y con diferentes personas a cargo.
+
+### Crear Inventario
+
+Al presionar crear inventario el sistema mostrara la siguiente pantalla para capturar la informacion necesaria.
+
+![alt text](../../../assets/inv1.webp)
+
+Al presionar en guardar nuestro inventario sera registrado en el sistema, el cual nos redirigira al inicio para visualizar los cambios realizados.
+
+![alt text](../../../assets/inv2.webp)
+
+### Visualizar inventario
+
+Cuando presiones el boton de editar el inventario en la pagina principal, seras redireccionado a la siguiente pagina en donde podras visualizar toda la informacion relevante al inventario seleccionado.
+
+![alt text](../../../assets/inv3.webp)
+
+![alt text](../../../assets/inv4.webp)
+
+### Agregar Detalle al Inventario
+
+Dentro del detalle del inventario tenemos la opcion de agregar los activos a este inventario, esto sera por medio de seleccion dentro del sistema o por medio de QR escaneando el QR que tiene asignado la maquina(Este QR esta generado dentro de nuestro sistema).
+
+#### Seleccionar activo
+
+Al presionar agregar en el detalle de inventario el sistema te mostrara la vista donde puedas capturar la informacion necesaria para el inventario, dejandote seleccionar de una lista los activos que se encuentran en la sucursal seleccionada, ademas de poder escribir el numero de caso y dejar unas notas relacionadas al activo al momento del inventario.
+
+![alt text](../../../assets/inv5.webp)
+
+#### Escanear con QR
+
+Tambien es posible agregar un activo al inventario escaneando el QR del activo(previamente generado desde el sistema), de igual manera tienes opcion de escribir el numero de caso y notas del activo al momento del inventario.
+
+![alt text](../../../assets/inv6.webp)
+
+#### Lista de activos agregados
+
+Al finalizar de agregar un activo seras redireccionado a la lista de activos agregados en el inventario.
+
+![alt text](../../../assets/inv7.webp)
+
+### Descargar reporte
+
+En la vista de detalle del inventario el sistema tiene habilitado un boton para descargar el reporte en Excel en el cual viene toda la informacion relevante y registrada en el sistema del activo inventariado.
